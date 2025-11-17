@@ -3,8 +3,9 @@
 An intelligent machine-learning web app that detects whether an essay is **AI-generated** or **Human-written**, using linguistic features, POS ratios, entropy, and SHAP-based explainability.
 
 Built with **Python, Streamlit, XGBoost, spaCy**, and **SHAP**.
-
 ---
+
+Try it out here -> http://humanorai.streamlit.app/
 
 ## 🚀 Features
 
@@ -34,12 +35,4 @@ Extracts metrics like:
 ### 📏 Visual Confidence Gauge
 Interactive gauge meter shows AI probability intuitively.
 
----
-
-## 📦 Installation
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/AI-Essay-Detector.git
-cd AI-Essay-Detector
-```
+--
