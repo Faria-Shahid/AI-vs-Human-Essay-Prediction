@@ -36,5 +36,3 @@ Extracts metrics like:
 
 ### 📏 Visual Confidence Gauge
 Interactive gauge meter shows AI probability intuitively.
-
---
